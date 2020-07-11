@@ -1,0 +1,18 @@
+use db;
+CREATE TABLE MpbaU (id smallint unsigned not null auto_increment, name varchar(32) not null, pwd varchar(32) not null, constraint pk_example primary key (id));
+SELECT * FROM example  WHERE name="elephant";
+INSERT INTO MpbaU (id,name,pwd) VALUES (null, 'xAbE2rLTwnbHXGTkBqJOZ3fsb3E', 'B');
+SELECT * FROM example  WHERE name="italy1912";
+SELECT * FROM example  WHERE name="VYdDx5pasQsaytnYBrV";
+INSERT INTO MpbaU (id,name,pwd) VALUES (null, 'sS5p', 'HCa9G0RSQ63m2tRTzx8');
+INSERT INTO MpbaU (id,name,pwd) VALUES (null, 'xgvKu0qu8z0TOchK6Xd55', 'ZHON7zSaOMSFKtoQT1J0nZ63QxAt');
+SELECT * FROM example  WHERE name="elephant";
+INSERT INTO MpbaU (id,name,pwd) VALUES (null, 'la8lOZEAA3RYADwSar8LRT', 'Y76GC91T84pQrlLC6mDmJH1');
+INSERT INTO MpbaU (id,name,pwd) VALUES (null, 'k2TYu5GSjNR', 'oGSymfbMSUjW9Ze4Eu1B4ej4');
+INSERT INTO MpbaU (id,name,pwd) VALUES (null, 'HbJVUFmuqPeKYuGooA', 'Q5cnYVTTplZEcc58Fbi');
+INSERT INTO MpbaU (id,name,pwd) VALUES (null, 'i4Wne', 'oogQxA');
+SELECT * FROM example  WHERE name="mickeymouse";
+SELECT table_name FROM information_schema.tables WHERE table_schema="db";
+SELECT * FROM MpbaU;
+SELECT * FROM MpbaU  WHERE name="41bkAgksndxgkkZXVNq";
+SELECT * FROM MpbaU  WHERE name="H";

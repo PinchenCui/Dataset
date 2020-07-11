@@ -1,0 +1,18 @@
+use db;
+CREATE TABLE jiSzr (id smallint unsigned not null auto_increment, name varchar(32) not null, pwd varchar(32) not null, constraint pk_example primary key (id));
+SELECT * FROM example  WHERE name="restinpeace";
+INSERT INTO jiSzr (id,name,pwd) VALUES (null, 'lFsvTEt3p', 'zRdvtRWxdqMo');
+SELECT * FROM example  WHERE name="f7V55c2BQsjjaf05blzdRrr";
+INSERT INTO jiSzr (id,name,pwd) VALUES (null, 'SkG4EQuJucn2B0EANxjT', 'hL8k3NbXGCVcRvWS');
+SELECT * FROM example  WHERE name="V9UeHXokD";
+INSERT INTO jiSzr (id,name,pwd) VALUES (null, 'KAJ', '0jjaU1yv4peut7vokTw');
+SELECT * FROM example  WHERE name="F";
+INSERT INTO jiSzr (id,name,pwd) VALUES (null, 'eulfheap9Y5', 'ooiUvabATCWctRHgJtWm5');
+SELECT * FROM example  WHERE name="cOpKbxlCOg0uTc0xQ3Js";
+INSERT INTO jiSzr (id,name,pwd) VALUES (null, '3k9n', 'qbOW01fpVeZ7COVbJWMxGc');
+SELECT * FROM jiSzr  WHERE id=3;
+SELECT * FROM jiSzr  WHERE name="mUfQ6Ynww";
+SELECT * FROM jiSzr  WHERE name="EHyJApSakj8G1x8nBOrrVQc";
+SELECT * FROM jiSzr  WHERE name="iuSkCxgGwj";
+SELECT table_name FROM information_schema.tables WHERE table_schema="db";
+SELECT * FROM jiSzr;

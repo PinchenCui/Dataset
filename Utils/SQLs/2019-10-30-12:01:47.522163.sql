@@ -1,0 +1,14 @@
+use db;
+CREATE TABLE NPhjQ (id smallint unsigned not null auto_increment, name varchar(32) not null, pwd varchar(32) not null, constraint pk_example primary key (id));
+INSERT INTO NPhjQ (id,name,pwd) VALUES (null, 'rFyAKgACPeyd5oU', '0nOM');
+INSERT INTO NPhjQ (id,name,pwd) VALUES (null, 'ux1S1snLuzEMJxLdoWEv6SH', 'dxxN89k');
+SELECT table_name FROM information_schema.tables WHERE table_schema="db";
+INSERT INTO NPhjQ (id,name,pwd) VALUES (null, 'WDnK9PLCKeGq', 'dKYZBTo3WZmiRW');
+INSERT INTO NPhjQ (id,name,pwd) VALUES (null, 'O8FXV1sZAS3SfkfZfIBOvzosZovs', '5rmDaPOampxeOLSC1vAQF50NMTeuU');
+SELECT * FROM example  WHERE name="SIyMZVTk42lCh9daBKWvUlaIeB";
+SELECT * FROM NPhjQ;
+INSERT INTO NPhjQ (id,name,pwd) VALUES (null, 'DReZxqiiwJ9fh6HMRY8B0EOeqMFq', 'Z0KK5CcqKXwMMtuMAvQLyQQIe');
+INSERT INTO NPhjQ (id,name,pwd) VALUES (null, 'aZFmY', '9NvXqAP0Lz0HdnZwOCaG6b');
+SELECT * FROM example  WHERE name="duck233";
+INSERT INTO NPhjQ (id,name,pwd) VALUES (null, 'zanq3c1YBt8DNwH4zTF', 'bQQ');
+SELECT * FROM NPhjQ  WHERE id=5;
